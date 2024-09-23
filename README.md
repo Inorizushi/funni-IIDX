@@ -3,7 +3,7 @@ A mess of code that's been kanged from 3 different places to make a barely funct
 
 # Features:
 * PS2 Compatibility
-* HID Lighting (No reactive LED fallback, it's either reactive or HID lighting. Brain too smol to make it work without re-working the entire thing.)
+* HID Lighting (No reactive LED fallback, it's either reactive or HID lighting. Brain too smol to make it work without re-working the entire thing. Switch using E3+B1/B3)
 * WS2812b Turntable Light with on-controller color control (E3 + B2/4/6 + TT Hue/Sat/Val) a'la PWan.
 * EEPROM saving (For TT Color)
 * Analog and Digital TT (Both are active, I'll make a mode switch when I get to it)

@@ -1,5 +1,5 @@
 # funni IIDX
-A mess of code that's been kanged for 3 different places to make a barely functional IIDX controller that also works on a PS2 using an Arduino Leonardo.
+A mess of code that's been kanged from 3 different places to make a barely functional IIDX controller that also works on a PS2 using an Arduino Leonardo.
 
 # Features:
 * PS2 Compatibility

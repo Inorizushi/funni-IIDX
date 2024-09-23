@@ -24,7 +24,7 @@ Button 8 should not be used for Infinitas compatibility. E1 - E3 do not have LED
 | Btn 8 Switch            |  NOT USED  |
 | Btn 9 Switch (Start/E1)    |  9  |
 | Btn 10 Switch (Select/E2)   | 10  |
-| Btn 11 Switch (E3)		| 22 |
+| Btn 11 Switch (E3)		| A4/22 |
 | **LEDs**                |     |
 | Btn 1 LED               |  11 |
 | Btn 2 LED               |  12 |
@@ -33,6 +33,7 @@ Button 8 should not be used for Infinitas compatibility. E1 - E3 do not have LED
 | Btn 5 LED               |  A1/19 |
 | Btn 6 LED               |  A2/20 |
 | Btn 7 LED               |  A3/21 |
+| WS2812b Data            |  A5/23  |
 | **Encoders**            |     |
 | Turntable Enc Channel A |  0  |
 | Turntable Enc Channel B |  1  |

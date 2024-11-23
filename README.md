@@ -38,7 +38,7 @@ Button 8 should not be used for Infinitas compatibility. E1 - E3 do not have LED
 | Turntable Enc Channel A |  0  |
 | Turntable Enc Channel B |  1  |
 
-## Playstation compatibility (From CrazyRedMachine's Ultimate Pop'n Controller)
+## Playstation compatibility (From CrazyRedMachine's Ultimate Pop'n Controller) DO NOT USE PINOUT FOR BUTTONS/LEDS, THIS IS FOR THE PS2 CABLE ONLY
 
 Arduino Leonardo version is also compatible with Playstation and Playstation 2 (it can be made to be plugged directly to the controller port, using the following pinout).
 
